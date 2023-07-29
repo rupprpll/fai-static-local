@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 29 Jul 2023 12:00:39 at https://www.fai.gov +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*search*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.fai.gov -O1 "C:\Data\FAI_GOV\fai-static-local\fai-static-local" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*search* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:00:39	Warning: 	Note: due to https://www.fai.gov remote robots.txt rules, links beginning with these path will be forbidden: /core/, /profiles/, /README.txt, /web.config, /admin/, /comment/reply/, /filter/tips, /node/add/, /search/, /user/register, /user/password, /user/login, /user/logout, /media/oembed, /*/media/oembed, /index.php/admin/, /index.php/comment/reply/, /index.php/filter/tips, /index.php/node/add/, /index.php/search/, /index.php/user/password, /index.php/user/register, /index.php/user/login, /index.php/user/logout, /index.php/media/oembed, /index.php/*/media/oembed (see in the options to disable this)
+12:03:37	Warning: 	Moved Permanently for https://www.fai.gov/media-library/
+12:03:37	Warning: 	File has moved from https://www.fai.gov/media-library/ to https://www.fai.gov/media-library
+12:03:37	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.fai.gov/themes/custom/uswds_base_fai/img/FAC_CL_flag.png (from https://www.fai.gov/training/continuous-learning-opportunities)
+12:03:47	Error: 	"Not Found" (404) at link https://www.fai.gov/sites/default/files/2023-05/FAI-Quarterly-Workforce-Metrics-Q4FY22.xlsx (from https://www.fai.gov/knowledge-center/human-capital-planning)
+12:04:23	Error: 	"Not Found" (404) at link https://www.fai.gov/sites/default/files/2023-05/Clara_Process_Map_0.pdf (from https://www.fai.gov/periodic-table)
+12:04:23	Error: 	"Not Found" (404) at link https://www.fai.gov/tools/1 (from https://www.fai.gov/tools/contracting-professionals-career-roadmap)
+12:04:52	Error: 	"Not Found" (404) at link https://www.fai.gov/tools/2 (from https://www.fai.gov/tools/contracting-professionals-career-roadmap)
+12:04:53	Error: 	"Not Found" (404) at link https://www.fai.gov/tools/3 (from https://www.fai.gov/tools/contracting-professionals-career-roadmap)
+12:04:53	Error: 	"Not Found" (404) at link https://www.fai.gov/tools/4 (from https://www.fai.gov/tools/contracting-professionals-career-roadmap)
+12:04:53	Error: 	"Forbidden" (403) at link https://www.fai.gov/media-library/item/5-ws-acm (from https://www.fai.gov/tools/contracting-professionals-career-roadmap)
+12:04:53	Error: 	"Not Found" (404) at link https://www.fai.gov/tools/5 (from https://www.fai.gov/tools/contracting-professionals-career-roadmap)
+12:04:53	Error: 	"Not Found" (404) at link https://www.fai.gov/tools/6 (from https://www.fai.gov/tools/contracting-professionals-career-roadmap)
+12:04:53	Error: 	"Not Found" (404) at link https://www.fai.gov/tools/7 (from https://www.fai.gov/tools/contracting-professionals-career-roadmap)
+12:04:53	Error: 	"Not Found" (404) at link https://www.fai.gov/tools/8 (from https://www.fai.gov/tools/contracting-professionals-career-roadmap)
+12:04:53	Error: 	"Not Found" (404) at link https://www.fai.gov/tools/9 (from https://www.fai.gov/tools/contracting-professionals-career-roadmap)
+12:04:56	Error: 	"Forbidden" (403) at link https://www.fai.gov/topics/contingency-contracting-corps (from https://www.fai.gov/tools/additional-tools)
+12:05:18	Error: 	"Not Found" (404) at link https://www.fai.gov/themes/custom/fai_theme/img/usa-icons/check-orange.svg (from https://www.fai.gov/certification/fac-cor/contracting-fac/fac-cor-certification-requirements)
+12:05:18	Error: 	"Not Found" (404) at link https://www.fai.gov/themes/custom/fai_theme/img/usa-icons/course-orange.svg (from https://www.fai.gov/certification/fac-cor/contracting-fac/fac-cor-certification-requirements)
+12:05:19	Warning: 	Retry after error 502 () at link https://www.fai.gov/themes/custom/uswds_base_fai/img/FAC_CL_flag.png (from https://www.fai.gov/training/continuous-learning-opportunities)
+12:05:19	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.fai.gov/sites/default/files/FAC096_EquityProcurementVideos_Web_HTML/story.html)
+12:05:25	Error: 	"Not Found" (404) at link https://www.fai.gov/drupal/sites/default/files/2017-3-29-FAI-Newsletter-Spring.pdf (from https://www.fai.gov/resources/acquisition-today-2017)
+12:05:25	Error: 	"Not Found" (404) at link https://www.fai.gov/drupal/sites/default/files/2015-8-20-FGDLA-small.png (from https://www.fai.gov/about/awards-recognition-2014)
+12:05:25	Error: 	"Not Found" (404) at link https://www.fai.gov/drupal/sites/default/files/2014-8-29-HCMG-Award.jpg (from https://www.fai.gov/about/awards-recognition-2013)
+12:05:25	Error: 	"Not Found" (404) at link https://www.fai.gov/drupal/sites/default/files/2013-Omni-508-Award.jpg (from https://www.fai.gov/about/awards-recognition-2013)
+12:05:25	Error: 	"Not Found" (404) at link https://www.fai.gov/drupal/sites/default/files/2013-Horizon-Award.jpg (from https://www.fai.gov/about/awards-recognition-2013)
+12:05:25	Error: 	"Not Found" (404) at link https://www.fai.gov/drupal/sites/default/files/2014-8-29-Omni-Intermedia-Award.jpg (from https://www.fai.gov/about/awards-recognition-2013)
+12:05:25	Error: 	"Not Found" (404) at link https://www.fai.gov/drupal/sites/default/files/2010-Horizon-Award.jpg (from https://www.fai.gov/about/awards-recognition-2010)
+12:05:25	Error: 	"Not Found" (404) at link https://www.fai.gov/drupal/sites/default/files/2009-Omni-Award.jpg (from https://www.fai.gov/about/awards-recognition-2009)
+12:05:35	Error: 	"" (502) after 2 retries at link https://www.fai.gov/themes/custom/uswds_base_fai/img/FAC_CL_flag.png (from https://www.fai.gov/training/continuous-learning-opportunities)
+12:06:29	Error: 	"Forbidden" (403) at link https://www.fai.gov/training/arrt-resources (from https://www.fai.gov/media-library/item/arrt-tool-demo-improving-tradecraft-services-acquisition)
+12:06:30	Error: 	"Not Found" (404) at link https://www.fai.gov/media_library/items/show/117 (from https://www.fai.gov/media-library/item/suspension-debarment-fundamentals)
+12:06:33	Error: 	"Forbidden" (403) at link https://www.fai.gov/content/transcript-dodging-fiscal-sharks (from https://www.fai.gov/media-library/item/dodging-fiscal-sharks)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 5 seconds : 851 links scanned, 819 files written (472590286 bytes overall) [473692903 bytes received at 1297788 bytes/sec], 384152 bytes transferred using HTTP compression in 4 files, ratio 30%
+(28 errors, 5 warnings, 0 messages)
